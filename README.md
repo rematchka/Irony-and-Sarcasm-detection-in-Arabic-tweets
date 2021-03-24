@@ -21,7 +21,7 @@ Irony and Sentiment detection is important to understand people's behavior and t
 1. `Official Results from website shared task 1`
 ![Alt text](Results/shared-task-1-official-results.png?raw=true "Title")
 2. `Official Results from website shared task 2`
-![Alt text](Results/Mean_Accuracy_LOTO_K_Folds_Validation.PNG?raw=true "Title")
+![Alt text](Results/shared-task-1-non-official.png?raw=true "Title")
 3. `Non-Official Results from website shared task 1`
 ![Alt text](Results/shared-task-2-official-results.png?raw=true "Title")
 4. `Non-Official Results from website shared task 2`
