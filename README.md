@@ -4,7 +4,10 @@ This repo represents model developed for Irony and sentiment detection in Arabic
 ## Overview
 This github is an implementation for accepted manuscript titled `WANLP 2021 Shared Task: Towards Irony and Sentiment detection in Arabic tweets using Multi-headed-LSTM-CNN-GRU and MARBERT`.
 
-[Paper can be found in ](https://camel.abudhabi.nyu.edu/WANLP-2021-Program/53_Paper.pdf) 
+[Publised paper](https://camel.abudhabi.nyu.edu/WANLP-2021-Program/53_Paper.pdf).
+
+
+
 If you find code useful, please consider citing
 ```
 Reem Abdel-Salam. 2021. Wanlp 2021 shared-task:
