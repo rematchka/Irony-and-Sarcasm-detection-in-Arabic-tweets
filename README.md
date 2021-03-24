@@ -20,9 +20,9 @@ Irony and Sentiment detection is important to understand people's behavior and t
 ## Results
 1. `Official Results from website shared task 1`
 ![Alt text](Results/shared-task-1-official-results.png?raw=true "Title")
-2. `Official Results from website shared task 2`
+2. `Non-Official Results from website shared task 1`
 ![Alt text](Results/shared-task-1-non-official.png?raw=true "Title")
-3. `Non-Official Results from website shared task 1`
+3. `Official Results from website shared task 2`
 ![Alt text](Results/shared-task-2-official-results.png?raw=true "Title")
 4. `Non-Official Results from website shared task 2`
 ![Alt text](Results/shared-task-2-non-official.png?raw=true "Title")
