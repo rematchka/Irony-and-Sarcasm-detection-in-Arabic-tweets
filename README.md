@@ -14,7 +14,7 @@ Language Processing Workshop.
 ```
 
 
-Irony and Sentiment detection is important to understand people's behavior and thoughts. Thus it has become a popular task in natural language processing (NLP). This paper presents results and main findings in WANLP 2021 shared tasks one and two. The task was based on the ArSarcasm-v2 dataset . In this paper, we describe our system Multi-headed-LSTM-CNN-GRU and also MARBERT  submitted for the shared task,  ranked 10 out of 27 in shared task one achieving 0.5662 F1-Sarcasm and ranked 3 out of 22 in shared task two achieving 0.7321 F1-PN under CodaLab username ``rematchka``. We experimented with various models and the two best performing models are a Multi-headed CNN-LSTM-GRU in which we used prepossessed text and emoji presented from tweets and MARBERT.
+Irony and Sentiment detection is important to understand people's behavior and thoughts. Thus it has become a popular task in natural language processing (NLP). This paper presents results and main findings in WANLP 2021 shared tasks one and two. The task was based on the ArSarcasm-v2 dataset . In this paper, we describe our system Multi-headed-LSTM-CNN-GRU and also MARBERT  submitted for the shared task,  ranked ``10`` out of ``27`` in ``shared task`` one achieving ``0.5662`` F1-Sarcasm and ranked ``3`` out of ``22`` in ``shared task two`` achieving ``0.7321`` F1-PN under CodaLab username ``rematchka``. We experimented with various models and the two best performing models are a Multi-headed CNN-LSTM-GRU in which we used prepossessed text and emoji presented from tweets and MARBERT.
 
 
 ## Results
